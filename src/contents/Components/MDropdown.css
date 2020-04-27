@@ -1,0 +1,31 @@
+.wrapp {
+  display: block;
+  background-color: none;
+  margin: 10px;
+  width: 500px;
+}
+
+.header {
+  width: 200px;
+  height: 50px;
+}
+
+.header input {
+  padding: 5px;
+  font-size: 16px;
+}
+
+.list {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.list-item {
+  float: left;
+  display: block;
+  padding: 5px 5px;
+  margin: 2px;
+  background-color: white;
+  color: black;
+}
